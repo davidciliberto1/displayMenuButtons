@@ -2,8 +2,8 @@
 Descripcion: Display con menu Programable y botones
 Description: Display with programmable menu and buttons
 
-# Incluye librerias
+#### Incluye librerias
 <Wire.h>
 <LiquidCrystal.h>
 
-# displayMenuButtons
+#### displayMenuButtons
